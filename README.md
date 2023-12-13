@@ -1,9 +1,11 @@
-### Agama Project Folder 
-Copyright <2023> <>
+The Agama Project Folder is a folder that contains all the necessary documents, files, and resources related to the Agama project. It is a centralized location where team members can access and collaborate on project-related materials.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+Here are some examples of what you might find in the Agama Project Folder:
 
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+1. Project Plan: This document outlines the project goals, objectives, deliverables, and timeline. It provides a roadmap for the project and helps keep everyone on track.
 
-THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+2. Project Schedule: This is a timeline or Gantt chart that illustrates the different phases and tasks of the project, along with their start and end dates. It helps with project planning and scheduling.
 
+3. Meeting Agendas and Minutes: These documents detail the topics discussed, decisions made, and action items assigned during project meetings. They ensure that everyone is aligned and aware of the project progress.
+
+4. Design and Technical Specifications: These documents define the requirements, functionality, and design elements of the Agama project. They serve as a nut shell 
